@@ -1,0 +1,19 @@
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\bin\Debug\TPArbres.exe.config
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\bin\Debug\TPArbres.exe
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\bin\Debug\TPArbres.pdb
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.csprojAssemblyReference.cache
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.Form1.resources
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.Properties.Resources.resources
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.csproj.GenerateResource.cache
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.exe
+D:\Bureau\DEC\SESSION 2\Structure de donnees\TPArbres\obj\Debug\TPArbres.pdb
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\bin\Debug\TPArbres.exe.config
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\bin\Debug\TPArbres.exe
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\bin\Debug\TPArbres.pdb
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.csprojAssemblyReference.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.Form1.resources
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.Properties.Resources.resources
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.csproj.GenerateResource.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.csproj.CoreCompileInputs.cache
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.exe
+C:\Users\maeva\OneDrive\Bureau\NOEL_TPArbres\TPArbres\obj\Debug\TPArbres.pdb
